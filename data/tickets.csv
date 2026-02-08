@@ -1,0 +1,55 @@
+text,label
+App crashes on startup,Bug
+Button not responding on click,Bug
+Error 500 appears on dashboard,Bug
+Screen freezes after login,Bug
+Page shows blank content,Bug
+Crash when uploading file,Bug
+Unexpected app shutdown,Bug
+UI elements not working,Bug
+Form submit button broken,Bug
+App shows white screen,Bug
+
+App is very slow,Performance
+Takes long time to load pages,Performance
+High latency in API calls,Performance
+App hangs under heavy load,Performance
+Slow response time on mobile,Performance
+Dashboard loads very slowly,Performance
+Performance degrades over time,Performance
+Scrolling is laggy,Performance
+App consumes high memory,Performance
+Delay while fetching data,Performance
+
+Cannot login to account,Authentication
+Password reset not working,Authentication
+OTP not received on phone,Authentication
+Account locked after attempts,Authentication
+Login fails repeatedly,Authentication
+Two factor authentication failed,Authentication
+Session expired immediately,Authentication
+Verification code invalid,Authentication
+Unable to authenticate user,Authentication
+Username not recognized,Authentication
+
+Payment failed during checkout,Billing
+Charged twice for subscription,Billing
+Refund not processed yet,Billing
+Invoice missing for payment,Billing
+Subscription not renewed automatically,Billing
+Incorrect billing amount,Billing
+Payment deducted but service not active,Billing
+Billing history incorrect,Billing
+Refund delayed for weeks,Billing
+Overcharged for plan,Billing
+
+Need help using app,Support
+How to change settings,Support
+Need user guide documentation,Support
+Contact support team,Support
+General query about features,Support
+How to update profile,Support
+Need assistance with app usage,Support
+Request product tutorial,Support
+Clarification needed on features,Support
+Help with account setup,Support
